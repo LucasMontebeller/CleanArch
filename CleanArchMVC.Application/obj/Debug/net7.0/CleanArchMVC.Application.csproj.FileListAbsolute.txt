@@ -1,0 +1,12 @@
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/bin/Debug/net7.0/CleanArchMVC.Application.deps.json
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/bin/Debug/net7.0/CleanArchMVC.Application.dll
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/bin/Debug/net7.0/CleanArchMVC.Application.pdb
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/CleanArchMVC.Application.csproj.AssemblyReference.cache
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/CleanArchMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/CleanArchMVC.Application.AssemblyInfoInputs.cache
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/CleanArchMVC.Application.AssemblyInfo.cs
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/CleanArchMVC.Application.csproj.CoreCompileInputs.cache
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/CleanArchMVC.Application.dll
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/refint/CleanArchMVC.Application.dll
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/CleanArchMVC.Application.pdb
+/home/lucas/Documents/Study/Pogramação/CleanArch/CleanArchMVC.Application/obj/Debug/net7.0/ref/CleanArchMVC.Application.dll
